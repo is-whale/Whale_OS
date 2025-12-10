@@ -5,8 +5,8 @@
 # Whale_OS
 
 Universal Architecture Design for Robots and Autonomous Driving
----
-## Summary
+
+### Summary
 Design a universal regulatory framework that includes features such as multithreading, message communication, resource management, and system operation monitoring. The main architecture for robot decision-making, planning, and control that is suitable for different scenarios and needs, and has good scalability and compatibility.
 
 ### feature
